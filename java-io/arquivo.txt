@@ -1,0 +1,5 @@
+Atualmente, nenhuma aplicação funciona isoladamente e não receba ou envie dados. Casos em que isto não aconteça são exceções raras.
+Atualmente2, nenhuma aplicação funciona isoladamente e não receba ou envie dados. Casos em que isto não aconteça são exceções raras.
+Atualmente3, nenhuma aplicação funciona isoladamente e não receba ou envie dados. Casos em que isto não aconteça são exceções raras.
+Atualmente4, nenhuma aplicação funciona isoladamente e não receba ou envie dados. Casos em que isto não aconteça são exceções raras.
+Atualmente5, nenhuma aplicação funciona isoladamente e não receba ou envie dados. Casos em que isto não aconteça são exceções raras.
